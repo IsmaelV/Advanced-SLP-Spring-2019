@@ -2,3 +2,5 @@
 *.zip
 *.pdf
 *.ipynb*
+hw4/data/*
+hw4/all_opensmile_features.csv
